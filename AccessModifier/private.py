@@ -7,4 +7,4 @@ class Aamir:
         self.__age = 10  # Private Attribute
 one = Aamir()
 print(one._Aamir__age)  # Correct
-print(one.__aamir)      # Incorrect
+print(one.__age)      # Incorrect
